@@ -1,8 +1,5 @@
 ### Website: https://yashchavanweb.github.io/contact-form/
 
-
-
-```markdown
 # React Vite Contact Form
 
 This project implements a simple contact form using React and Vite, optimized for fast bundling and performance. It allows users to submit inquiries or messages conveniently through a streamlined user interface.
